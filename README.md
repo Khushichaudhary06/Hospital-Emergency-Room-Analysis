@@ -100,5 +100,5 @@ The dashboard helps identify:
 ## Author
 ### Khushi Chaudhary
 
-**Aspiring Data Analyst**
+Aspiring Data Analyst
 
